@@ -6,5 +6,4 @@ into 5 sub projects that are all linked below.
 - [Warmup](https://shanepanter.com/web1/p1.html)
 - [HTML](https://shanepanter.com/web1/p2.html)
 - [CSS](https://shanepanter.com/web1/p3.html)
-- [Lambda](https://shanepanter.com/web1/p4.html)
-- [Guestbook](https://shanepanter.com/web1/p5.html)
+- [Full Stack](https://shanepanter.com/web1/p4.html)
